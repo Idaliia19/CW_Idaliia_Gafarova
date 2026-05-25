@@ -1,0 +1,11 @@
+,pooled_pval_MSE,in_SSM90_MSE,pooled_pval_QLIKE,in_SSM90_QLIKE
+AR,0.0002,False,0.0012,False
+ARFIMA,1.0000,True,1.0000,True
+ENN,0.0012,False,0.0129,False
+FNN,0.0012,False,0.0220,False
+HAR,0.0014,False,0.0048,False
+JNN,0.0007,False,0.0103,False
+LSTAR,0.0000,False,0.0000,False
+LSTM,0.0012,False,0.0220,False
+NAR,0.0007,False,0.0012,False
+RW,0.0000,False,0.0000,False

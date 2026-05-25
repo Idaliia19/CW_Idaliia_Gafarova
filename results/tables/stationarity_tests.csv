@@ -1,0 +1,4 @@
+ticker,adf_stat,adf_pvalue,adf_stationary_p<0.05,lb10_ar1resid_stat,lb10_ar1resid_pvalue,lb10_rejects_white_noise,terasvirta_stat,terasvirta_pvalue,terasvirta_rejects_linearity,terasvirta_df,hurst_rs
+AAPL,-6.904540,0.000000,True,200.925727,0.000000,True,5.288136,0.071072,False,2,0.927368
+AMZN,-5.721481,0.000001,True,175.717822,0.000000,True,27.089292,0.000001,True,2,0.950521
+JPM,-5.874169,0.000000,True,184.741137,0.000000,True,37.405855,0.000000,True,2,0.937728

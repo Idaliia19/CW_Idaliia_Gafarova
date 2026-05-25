@@ -1,0 +1,8 @@
+Model,AAPL_pval_MSE,AAPL_InSSM90_MSE,AAPL_InSSM75_MSE,AAPL_pval_QLIKE,AAPL_InSSM90_QLIKE,AAPL_InSSM75_QLIKE,AMZN_pval_MSE,AMZN_InSSM90_MSE,AMZN_InSSM75_MSE,AMZN_pval_QLIKE,AMZN_InSSM90_QLIKE,AMZN_InSSM75_QLIKE,JPM_pval_MSE,JPM_InSSM90_MSE,JPM_InSSM75_MSE,JPM_pval_QLIKE,JPM_InSSM90_QLIKE,JPM_InSSM75_QLIKE,POOLED_pval_MSE,POOLED_InSSM90_MSE,POOLED_InSSM75_MSE,POOLED_pval_QLIKE,POOLED_InSSM90_QLIKE,POOLED_InSSM75_QLIKE
+RW,0.0000,False,False,0.0000,False,False,0.0000,False,False,0.0000,False,False,0.0000,False,False,0.0000,False,False,0.0000,False,False,0.0000,False,False
+AR,0.1238,True,False,0.1649,True,False,0.0070,False,False,0.0058,False,False,0.0047,False,False,0.0454,False,False,0.0001,False,False,0.0007,False,False
+HAR,0.0644,False,False,0.0848,False,False,0.5038,True,True,0.0957,False,False,0.0310,False,False,0.0454,False,False,0.0014,False,False,0.0025,False,False
+ARFIMA,1.0000,True,True,1.0000,True,True,1.0000,True,True,1.0000,True,True,1.0000,True,True,1.0000,True,True,1.0000,True,True,1.0000,True,True
+FNN,0.0692,False,False,0.2327,True,False,0.0001,False,False,0.0000,False,False,0.0068,False,False,0.0454,False,False,0.0010,False,False,0.0220,False,False
+LSTM,0.2527,True,True,0.7883,True,True,0.0078,False,False,0.0294,False,False,0.0310,False,False,0.1701,True,False,0.0010,False,False,0.0220,False,False
+NAR,0.5187,True,True,0.7883,True,True,0.0007,False,False,0.0019,False,False,0.0020,False,False,0.0036,False,False,0.0003,False,False,0.0007,False,False

@@ -1,0 +1,4 @@
+ticker,n_minute_bars,n_trading_days,avg_daily_volume,avg_daily_return_bps,avg_daily_realized_var,avg_daily_realized_vol_pct
+AAPL,879249,2264,83926890,10.394,0.00018,1.343
+AMZN,877566,2264,42201837,8.557,0.000239,1.547
+JPM,879176,2264,11385603,6.939,0.000166,1.288
